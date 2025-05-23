@@ -4,3 +4,4 @@ torchaudio
 numpy
 yt-dlp
 ffmpeg-python
+matplotlib
