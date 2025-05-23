@@ -28,7 +28,7 @@ This project is an end-to-end AI solution that classifies English speech accents
 ## 🧠 Model Training Overview
 
 ### 📦 Dataset
-We used the [CommonVoice 60s dataset](https://commonvoice.mozilla.org/en/datasets) by Mozilla Foundation. It contains thousands of labeled audio samples in various English accents.
+We used the [CommonVoice 16th dataset](https://commonvoice.mozilla.org/en/datasets) by Mozilla Foundation. It contains thousands of labeled audio samples in various English accents.
 
 ### ⚙️ Preprocessing
 - Filtered out languages not in our target set.
